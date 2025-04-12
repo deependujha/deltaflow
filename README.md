@@ -12,3 +12,9 @@ make update_theme
 # Start the server
 make serve
 ```
+
+---
+
+## Special thanks
+
+- [Hextra](https://imfing.github.io/hextra/)

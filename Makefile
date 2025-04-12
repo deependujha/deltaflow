@@ -8,4 +8,4 @@ install_dependencies:
 	hugo mod tidy
 
 serve:
-	hugo server --logLevel debug --disableFastRender -p 1313
+	hugo server --logLevel debug -p 1313

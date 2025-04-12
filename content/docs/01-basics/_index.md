@@ -1,12 +1,11 @@
 ---
-title: Basics of Options Trading
+title: Basics
 type: docs
-prev: docs/01-terminologies
-next: docs/01-basics/01-moneyness-of-options
-sidebar:
-  open: true
+prev: docs/
+next: docs/01-basics/01-terminologies
 ---
 
 ## Content
 
-1. [Moneyness of Options](docs/01-basics/moneyness-of-options)
+1. [Terminologies](docs/01-basics/01-terminologies)
+2. [Moneyness of Options](docs/01-basics/02-moneyness-of-options)
