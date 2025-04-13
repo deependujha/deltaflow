@@ -3,4 +3,4 @@ title: Options trading
 next: docs/01-basics/
 ---
 
-![options](/assets/motion-stocks.gif)
+<img src="/assets/motion-stocks.gif" alt="options trading" width="100%" />
