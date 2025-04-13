@@ -3,7 +3,7 @@ title: When to do what?
 type: docs
 prev: docs/01-basics/01-terminologies
 next: docs/01-basics/03-moneyness-of-options
-weight: 1
+weight: 2
 ---
 
 ## Buy & Sell: CALL & PUT
